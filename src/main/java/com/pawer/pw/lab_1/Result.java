@@ -1,6 +1,4 @@
-package com.pawer.pw;
-
-import com.pawer.pw.counter.CounterFactory;
+package com.pawer.pw.lab_1;
 
 public record Result(
         long executionTimeNs,

@@ -5,13 +5,22 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pawer</groupId>
-    <artifactId>CounterPW</artifactId>
+    <artifactId>ProgramowanieWspolbiezne</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.source>25</maven.compiler.source>
-        <maven.compiler.target>25</maven.compiler.target>
+        <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <apache.commons>3.12.0</apache.commons>
     </properties>
-    
+
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>${apache.commons}</version>
+        </dependency>
+    </dependencies>
+
 </project>

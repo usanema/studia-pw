@@ -1,6 +1,6 @@
-package com.pawer.pw;
+package com.pawer.pw.lab_1;
 
-import com.pawer.pw.counter.CounterFactory;
+import com.pawer.pw.lab_1.counter.CounterFactory;
 
 import java.io.FileWriter;
 import java.io.IOException;

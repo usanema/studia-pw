@@ -1,9 +1,9 @@
-package com.pawer.pw.counter;
+package com.pawer.pw.lab_1.counter;
 
 
-import com.pawer.pw.counter.impl.AtomicCounter;
-import com.pawer.pw.counter.impl.SynchronizedCounter;
-import com.pawer.pw.counter.impl.UnsafeCounter;
+import com.pawer.pw.lab_1.counter.impl.AtomicCounter;
+import com.pawer.pw.lab_1.counter.impl.SynchronizedCounter;
+import com.pawer.pw.lab_1.counter.impl.UnsafeCounter;
 
 public class CounterFactory {
 

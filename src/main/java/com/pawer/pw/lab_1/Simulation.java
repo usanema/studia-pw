@@ -1,10 +1,8 @@
-package com.pawer.pw;
+package com.pawer.pw.lab_1;
 
-import com.pawer.pw.counter.Counter;
-import com.pawer.pw.counter.CounterFactory;
+import com.pawer.pw.lab_1.counter.Counter;
+import com.pawer.pw.lab_1.counter.CounterFactory;
 import org.apache.commons.lang3.time.StopWatch;
-
-import java.util.concurrent.TimeUnit;
 
 public class Simulation {
 

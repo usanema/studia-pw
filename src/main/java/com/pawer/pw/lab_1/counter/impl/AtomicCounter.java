@@ -1,6 +1,6 @@
-package com.pawer.pw.counter.impl;
+package com.pawer.pw.lab_1.counter.impl;
 
-import com.pawer.pw.counter.Counter;
+import com.pawer.pw.lab_1.counter.Counter;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
